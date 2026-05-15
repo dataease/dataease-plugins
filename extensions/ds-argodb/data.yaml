@@ -1,0 +1,7 @@
+name: Argodb 数据填报插件
+title: Argodb 数据填报插件
+description: 基于星环的 Argodb-6.0.6 版本开发，使用的驱动包为 quark-driver-8.37.3.jar，同样适配星环 Inceptor 数据源，推荐使用 DataEase v2.10.22 及以上版本
+tags:
+  - 数据源插件
+additionalProperties:
+  enterprise: true

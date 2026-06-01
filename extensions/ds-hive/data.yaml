@@ -1,6 +1,6 @@
 name: Apache Hive 数据源插件
 title: Apache Hive 数据源插件
-description: Apache Hive 数据源插件，推荐使用 DataEase v2.10.21 及以上版本
+description: Apache Hive 数据源插件，推荐使用 DataEase v2.10.23 及以上版本
 tags:
   - 数据源插件
 additionalProperties:

@@ -1,6 +1,6 @@
 name: ECharts 组合图插件
 title: ECharts 组合图插件
-description: 基于 ECharts 5.5.1 开发，推荐使用 DataEase v2.10.21 及以上版本
+description: 基于 ECharts 5.5.1 开发，推荐使用 DataEase v2.10.23 及以上版本
 tags:
   - 图表插件
 additionalProperties:

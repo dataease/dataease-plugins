@@ -1,6 +1,6 @@
 name: TDEngine 数据源插件
 title: TDEngine 数据源插件
-description: 基于 TDEngine 3.3.6.13 开发，推荐使用 DataEase v2.10.21 及以上版本
+description: 基于 TDEngine 3.3.6.13 开发，推荐使用 DataEase v2.10.23 及以上版本
 tags:
   - 数据源插件
 additionalProperties:

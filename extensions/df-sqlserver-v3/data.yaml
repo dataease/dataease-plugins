@@ -1,0 +1,7 @@
+name: V3 SQL Server 数据填报插件
+title: V3 SQL Server 数据填报插件
+description: 基于 SQL Server 2022 开发，推荐使用 DataEase v3.2.1 及以上版本
+tags:
+  - 数据填报插件
+additionalProperties:
+  enterprise: true

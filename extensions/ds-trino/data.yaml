@@ -1,5 +1,5 @@
-name: Trino 数据源插件
-title: Trino 数据源插件
+name: V2 Trino 数据源插件
+title: V2 Trino 数据源插件
 description: 基于 Trino 481 开发，推荐使用 DataEase v2.10.23 及以上版本
 tags:
   - 数据源插件

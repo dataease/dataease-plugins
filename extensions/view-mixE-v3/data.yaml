@@ -1,0 +1,7 @@
+name: V3 ECharts 组合图插件
+title: V3 ECharts 组合图插件
+description: 基于 ECharts 5.5.1 开发，推荐使用 DataEase v3.2.1 及以上版本
+tags:
+  - 图表插件
+additionalProperties:
+  enterprise: true

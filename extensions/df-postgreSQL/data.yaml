@@ -1,6 +1,6 @@
-name: DataEase V2 PostgreSQL 数据填报插件
-title: DataEase V2 PostgreSQL 数据填报插件
-description: DataEase V2 PostgreSQL 数据填报插件，推荐使用 DataEase v2.10.21 及以上版本
+name: V2 PostgreSQL 数据填报插件
+title: V2 PostgreSQL 数据填报插件
+description: V2 PostgreSQL 数据填报插件，推荐使用 DataEase v2.10.21 及以上版本
 tags:
   - 数据填报插件
 additionalProperties:

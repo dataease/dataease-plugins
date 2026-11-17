@@ -1,0 +1,7 @@
+name: V3 SAP HANA 数据源插件
+title: V3 SAP HANA 数据源插件
+description: 基于 SAP HANA 2.0 开发，推荐使用 DataEase v3.2.1 及以上版本
+tags:
+  - 数据源插件
+additionalProperties:
+  enterprise: true

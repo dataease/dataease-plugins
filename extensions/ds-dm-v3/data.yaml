@@ -1,0 +1,7 @@
+name: V3 达梦数据源插件
+title: V3 达梦数据源插件
+description: 达梦数据源插件，推荐使用 DataEase v3.2.1 及以上版本
+tags:
+  - 数据源插件
+additionalProperties:
+  enterprise: true

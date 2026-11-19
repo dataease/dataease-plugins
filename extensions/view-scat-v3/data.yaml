@@ -1,0 +1,7 @@
+name: V3 缩略象限图插件
+title: V3 缩略象限图插件
+description: 缩略散点图视图插件，支持缩略轴与节点数据弹窗展示，推荐使用 DataEase v3.2.1 及以上版本
+tags:
+  - 图表插件
+additionalProperties:
+  enterprise: true

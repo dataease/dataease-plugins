@@ -1,5 +1,5 @@
-name: CirroData 数据源插件
-title: CirroData 数据源插件
+name: V2 CirroData 数据源插件
+title: V2 CirroData 数据源插件
 description: 基于 CirroData XCloudJDBC 开发，推荐使用 DataEase v2.10.5 及以上版本
 tags:
   - 数据源插件

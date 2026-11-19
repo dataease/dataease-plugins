@@ -1,0 +1,7 @@
+name: V3 GBase 8a 数据源插件
+title: V3 GBase 8a 数据源插件
+description: GBase 8a 数据源插件，推荐使用 DataEase v3.2.1 及以上版本
+tags:
+  - 数据源插件
+additionalProperties:
+  enterprise: true

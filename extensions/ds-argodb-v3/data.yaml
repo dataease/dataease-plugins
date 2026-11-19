@@ -1,0 +1,7 @@
+name: V3 Argodb 数据源插件
+title: V3 Argodb 数据源插件
+description: 基于星环的 Argodb-6.0.6 版本开发，使用的驱动包为 quark-driver-8.37.3.jar，同样适配星环 Inceptor 数据源，推荐使用 DataEase v3.2.1 及以上版本
+tags:
+  - 数据源插件
+additionalProperties:
+  enterprise: true

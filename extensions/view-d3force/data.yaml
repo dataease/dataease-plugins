@@ -1,5 +1,5 @@
-name: 力导向图插件
-title: 力导向图插件
+name: V2 力导向图插件
+title: V2 力导向图插件
 description: 基于 AntV G6 开发的力导向图视图插件，采用 D3Force 布局，推荐使用 DataEase v2.10.8 及以上版本
 tags:
   - 图表插件

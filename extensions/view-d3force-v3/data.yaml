@@ -1,0 +1,7 @@
+name: V3 力导向图插件
+title: V3 力导向图插件
+description: 基于 AntV G6 开发的力导向图视图插件，采用 D3Force 布局，推荐使用 DataEase v3.2.1 及以上版本
+tags:
+  - 图表插件
+additionalProperties:
+  enterprise: true

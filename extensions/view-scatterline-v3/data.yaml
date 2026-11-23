@@ -1,0 +1,7 @@
+name: V2 散点连线图插件
+title: V2 散点连线图插件
+description: 散点连线图视图插件，支持按时间字段进行顺序连线，推荐使用 DataEase v2.10.17 及以上版本
+tags:
+  - 图表插件
+additionalProperties:
+  enterprise: true
